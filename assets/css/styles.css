@@ -283,3 +283,7 @@ img{
     cursor: pointer;
     color: var(--first-color);
 }
+
+.nav_close:hover{
+    color: var(--first-color);
+}
