@@ -40,5 +40,10 @@
     --small-font-size: .813rem ;
     --smaller-font-size: .75rem ;
 
+
+    /*----ADDED FONT WEIGHT----*/
+    --font-medium: 500 ;
+    --font-semi-bold: 600 ;
+
 }
 
