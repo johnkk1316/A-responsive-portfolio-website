@@ -1,4 +1,7 @@
-/*----ADDED GOOGLE FONTS----*/
+/*----ADDED GOOGLE FONTS----*/ 
+
+/*----FONTS USED----POPPINS */
+/*----FONT STYLES USED----Regular 400, Medium 500, SemiBold 600----*/
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
@@ -23,6 +26,19 @@
     --input-color: hsl(var(--hue-color), 70%, 96%) ;
     --body-color: hsl(var(--hue-color), 60%, 99%) ;
     --container-color: #fff ;
+
+    /*----ADDED FONT AND TYPOGRAPHY---*/
+    
+    --body-font: 'Poppins', sans-serif;  /*Copied link from CSS rules to specify families which is located at googlefonts.com*/
+
+    /*----5rem = 8px, 1rem = 16px, 1.5rem = 24px----*/
+    --big-font-size: 2rem ;     
+    --h1-font-size: 1.5rem ;
+    --h2-font-size: 1.25rem ;
+    --h3-font-size: 1.125rem ;
+    --normal-font-size: .938rem ;
+    --small-font-size: .813rem ;
+    --smaller-font-size: .75rem ;
 
 }
 
