@@ -287,3 +287,11 @@ img{
 .nav_close:hover{
     color: var(--first-color-alt);
 }
+
+
+
+
+/*----ADDED SHOW MENU----*/
+.show-menu{
+    bottom: 0;
+}
