@@ -142,16 +142,16 @@ img{
 
 /*----REUSABLE CSS CLASSES----*/
 .section{
-    padding: 2rem 0 4rem ;
+    padding: 2rem 0 4rem;
 }
 
 
 
-.section__title{
+.section_title{
     font-size: var(--h1-font-size);
 }
 
-.section__subtitle{
+.section_subtitle{
     display: block;
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-3);
@@ -159,8 +159,8 @@ img{
 
 
 
-.section__title,
-.section__subtitle{
+.section_title,
+.section_subtitle{
     text-align: center;
 }
 
@@ -413,7 +413,7 @@ img{
 
 
 
-/*---ADD STYL TO BUTTTONS---*/
+/*---ADD STYLE TO BUTTTONS---*/
 .button{
     display: inline-block;
     background-color: var(--first-color);
@@ -443,3 +443,250 @@ img{
     display: inline-flex;
     align-items: center;
 }
+
+
+
+
+/*----ADDED STYLE TO ABOUT----*/
+.about_img{
+    width: 200px;
+    border-radius: .5rem;
+    justify-self: center;
+    align-self: center;
+}
+
+
+
+.about_description{
+    text-align: center;
+    margin-bottom: var(--mb-2-5);
+}
+
+
+
+.about_info{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: var(--mb-2-5);
+}
+
+
+
+.about_info-title{
+    font-size: var(--h2-font-size);
+    font-weight: var(--font-semi-bold);
+    color: var(--title-color);
+}
+
+
+
+.about_info-name{
+    font-size: var(--smaller-font-size);               
+}
+
+
+
+.about_info-title,
+.about_info-name{
+    display: block;
+    text-align: center;
+}
+
+
+
+.about_buttons{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/*----ADDED STYLE TO SKILLS----*/
+.skills_container{
+    row-gap: 0rem;
+}
+
+
+
+.skills_header{
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--mb-2-5);
+    cursor: pointer;
+}
+
+
+
+.skills_icon,
+.skills_arrow{
+    font-size: 2rem;
+    color: var(--first-color);
+}
+
+
+
+.skills_icon{
+    margin-right: var(--mb-0-75);
+}
+
+
+
+.skills_title{
+    font-size: var(--h3-font-size);
+}
+
+
+
+.skills_subtitle{
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+}
+
+
+
+.skills_arrow{
+    margin-left: auto;
+    transition: .4s;
+}
+
+
+
+.skills_list{
+    row-gap: 1.5rem;
+    padding-left: 2.75rem;
+}
+
+
+
+.skills_titles{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--mb-0-5);
+}
+
+
+
+.skills_name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+}
+
+
+
+.skills_bar,
+.skills_percentage{
+    height: 5px;
+    border-radius: .25rem;
+}
+
+
+
+.skills_bar{
+    background-color: var(--first-color-lighter);
+}
+
+
+
+.skills_percentage{
+    display: block;
+    background-color: var(--first-color);
+}
+
+
+
+/*----frontend percentages----*/
+.skills_html{
+    width: 90%;
+}
+
+
+
+.skills_css{
+    width: 80%;
+}
+
+
+
+.skills_js{
+    width: 70%;
+}
+
+
+
+.skills_react{
+    width: 85%;
+}
+
+
+
+
+/*----backend percentages----*/
+.skills_golang{
+    width: 50%;
+}
+
+
+
+.skills_firebase{
+    width: 80%;
+}
+
+
+
+.skills_node{
+    width: 70%;
+}
+
+
+
+.skills_python{
+    width: 30%;
+}
+
+
+
+
+/*----designer percentages----*/
+.skills_photoshop{
+    width: 80%;
+}
+
+
+
+.skills_illustrator{
+    width: 80%;
+}
+
+
+
+.skills_coreldraw{
+    width: 60%;
+}
+
+
+
+.skills_figma{
+    width: 30%;
+}
+
+
+
+
+.skills_close .skills_list{
+    height: 0;
+    overflow: hidden;
+}
+
+
+
+.skills_open .skills_list{
+    height: max-content;
+    overflow: var(--mb-2-5);
+}
+
+
+
+.skills_open .skills_arrow{
+    transform: rotate(-180deg);
+}
+
