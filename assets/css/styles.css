@@ -979,6 +979,52 @@ img{
 
 
 
+.swiper-button-prev::after,
+.swiper-button-next::after{
+    content: '';
+}
+
+
+
+.swiper-portfolio-icon{
+    font-size: 2rem;
+    color: var(--first-color);
+}
+
+
+
+.swiper-button-prev{
+    left: -.5rem;
+}
+
+
+
+.swiper-button-next{
+    right: -.5rem;
+}
+
+
+
+.swiper-horizontal > .swiper-pagination-bullets{
+    bottom: -3rem;
+}
+    
+
+
+.swiper-pagination-bullet-active{
+    background-color: var(--first-color);
+}
+
+
+
+.swiper-button-prev,
+.swiper-button-next,
+.swiper-pagination-bullet{
+    outline: none;
+}
+
+
+
 
 
 
