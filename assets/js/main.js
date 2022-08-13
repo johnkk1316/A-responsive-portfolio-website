@@ -152,7 +152,6 @@ let swiperTestimonial = new Swiper(".mySwiperTestimonial", {
             slidesPerView: 2,
         }
     }
-    
 });
 
 
