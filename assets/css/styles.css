@@ -305,6 +305,13 @@ img{
 
 
 
+/*----CHANGE BACKGROUND HEADER----*/
+.scroll-header{
+    box-shadow: 0 -1px 4px rgba(0,0,0,.15);
+}
+
+
+
 /*----ADDED HOME----*/
 .home_container{
     gap: 1rem;   
