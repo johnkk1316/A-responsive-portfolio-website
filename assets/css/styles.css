@@ -298,6 +298,13 @@ img{
 
 
 
+/*----ADDED ACTIVE LINK----*/
+.active-link{
+    color: var(--first-color);
+}
+
+
+
 /*----ADDED HOME----*/
 .home_container{
     gap: 1rem;   
