@@ -29,9 +29,27 @@ A-responsive-portfolio-website.
 
 ## Screenshots
 
-![](https://user-images.githubusercontent.com/88212270/187741113-f5bf5965-dc1f-4ef8-83be-e412db242276.png) <br> On a Smartphone.
+![App a smartphone.](https://user-images.githubusercontent.com/88212270/187741113-f5bf5965-dc1f-4ef8-83be-e412db242276.png)
+
+![On an Ipad.](https://user-images.githubusercontent.com/88212270/187741136-c59317a2-e0f3-41a5-b70b-9884bcc86996.png)
+
+![On a Laptop.](https://user-images.githubusercontent.com/88212270/187741157-66b76045-3942-4d0e-be69-0be23ab4440f.png)
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  https://a-responsive-portfolio-website.pages.dev/
+```
 
 
-![](https://user-images.githubusercontent.com/88212270/187741136-c59317a2-e0f3-41a5-b70b-9884bcc86996.png) <br> On an Ipad.
+## Authors
 
-![](https://user-images.githubusercontent.com/88212270/187741157-66b76045-3942-4d0e-be69-0be23ab4440f.png) <br> On a Laptop.
+- [@johnkk1316](https://github.com/johnkk1316)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnkk98)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Vykin98)
+
