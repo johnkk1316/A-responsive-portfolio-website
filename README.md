@@ -29,8 +29,9 @@ A-responsive-portfolio-website.
 
 ## Screenshots
 
-![App a smartphone.](https://user-images.githubusercontent.com/88212270/187741113-f5bf5965-dc1f-4ef8-83be-e412db242276.png)
+![](https://user-images.githubusercontent.com/88212270/187741113-f5bf5965-dc1f-4ef8-83be-e412db242276.png) <br> On a Smartphone.
 
-![On an Ipad.](https://user-images.githubusercontent.com/88212270/187741136-c59317a2-e0f3-41a5-b70b-9884bcc86996.png)
 
-![On a Laptop.](https://user-images.githubusercontent.com/88212270/187741157-66b76045-3942-4d0e-be69-0be23ab4440f.png)
+![](https://user-images.githubusercontent.com/88212270/187741136-c59317a2-e0f3-41a5-b70b-9884bcc86996.png) <br> On an Ipad.
+
+![](https://user-images.githubusercontent.com/88212270/187741157-66b76045-3942-4d0e-be69-0be23ab4440f.png) <br> On a Laptop.
